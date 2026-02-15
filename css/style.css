@@ -238,8 +238,8 @@ body {
 
 /*** Hero Header ***/
 .hero-header {
-    background: url(../img/hero-bg.jpg) top left no-repeat;
-    background-size: cover;
+    /* background: url(../img/hero-bg.jpg) top left no-repeat; */
+    /* background-size: cover; */
 }
 
 @media (min-width: 992px) {
